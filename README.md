@@ -1,1 +1,1 @@
-# challenge-alura-store
+Repositório criado para resolução do Challenge Alura Store
